@@ -1,8 +1,10 @@
 ---
-layout: default
-title:  "网页的logo更改"
-date:   2017-12-07 23:45:15 +0800
+layout: article
+title:  "关于作者"
+date:   2018-01-02 19:53:15 +0800
 categories: 
+image:
+  teaser: peithird.jfif
 ---
 
 # 在网页打开时候，浏览器出现你的logo
