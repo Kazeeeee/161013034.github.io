@@ -4,7 +4,7 @@ title:  "如何搭建个人博客？"
 date:   2018-01-02 13:15:50 +0800
 categories: posts rwd
 image:
-  teaser: peithird.jfif
+  teaser: peisecond.jfif
 ---
 
 # 迈向成功的第一步
