@@ -3,13 +3,16 @@
 - title: 网页设计作品集
   url: /portfolio/ 
   excerpt: "网页设计的个人作品集"
+  image: first.gif
   
 
 - title: 信息可视化作品集
   url: /infovis/ 
   excerpt: "信息可视化的个人作品集"
+  image: second.gif
   
 
 - title: 个人学习心得与笔记
   url: /note/ 
   excerpt: "心得笔记"
+  image: three.gif
