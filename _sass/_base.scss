@@ -10,7 +10,6 @@ body {
 	font-family: $base-font;
 	color: $text-color;
 	background-image:
-	linear-gradient(rgba(360,360,340,2.5),rgba(360,360,340,2.3)),
         url('../images/bei.jfif');
 	@include font-size(16);
 }
