@@ -33,7 +33,7 @@ owner:
     ad-client:
     ad-slot:
   bio: "何敏红 2016级中山大学南方学院文学与传媒学院网络与新媒体学生"
-  avatar: bio.jpg
+  avatar: ren-160×160.jpg # 160x160 px image for author byline
   disqus-shortname:
 
 
