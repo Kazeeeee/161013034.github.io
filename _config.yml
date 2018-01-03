@@ -26,14 +26,14 @@ gems:
 
 # Site owner
 owner:
-  name: Gwenshiga
-  email: tracy_cy.cy@163.com
+  name: 何敏红
+  email: 632267725@qq.com
   twitter: 
   google:
     ad-client:
     ad-slot:
-  bio: "Sleepmode on"
-  avatar: #这是个人照片，例如bio-photo.jpg  160x160 px image for author byline
+  bio: "学习知识要善于思考，思考，再思考。"
+  avatar: bio.jpg
   disqus-shortname:
 
 
