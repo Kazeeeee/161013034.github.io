@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: "何敏红个人学习博客"
+title: "钟嘉孜个人学习博客"
 description: "个人学习博客"
 logo: ren-160×160.jpg
 teaser: # 400x250 px default teaser image used in image archive grid
@@ -26,13 +26,13 @@ gems:
 
 # Site owner
 owner:
-  name: 何敏红
-  email: 632267725@qq.com
+  name: 钟嘉孜
+  email:582105102@qq.com
   twitter: 
   google:
     ad-client:
     ad-slot:
-  bio: "何敏红 2016级中山大学南方学院文学与传媒学院网络与新媒体学生"
+  bio: "钟嘉孜 16级中大南方文学与传媒学院网络与新媒体学生"
   avatar: ren-160×160.jpg # 160x160 px image for author byline
   disqus-shortname:
 
